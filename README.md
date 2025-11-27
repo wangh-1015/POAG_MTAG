@@ -1,8 +1,7 @@
-### Codes availability ###
-# Codes for "Integrative fine-mapping and single-cell analyses identify novel genes, cell types, and drug candidates for glaucoma"
+**Codes for "Integrative fine-mapping and single-cell analyses identify novel genes, cell types, and drug candidates for glaucoma"**
 
-# This file contains codes and example data for Fig. 2 - 6. 
-# Note, Fig. 1 was made by Biorender.
+This file contains codes and example data for Fig. 2 - 6. 
+Note, Fig. 1 was made by Biorender.
 
 1. To replicate the plot using R, you need to install R and essential R packages first,
 All the R packages used in our codes are listed in each R script. After installing R
